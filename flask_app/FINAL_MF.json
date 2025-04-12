@@ -1,0 +1,108 @@
+[
+  {
+    "name": "ICICI Prudential Value Discovery Fund Direct Plan Growth",
+    "ticker": "INF109K012K1",
+    "clean_data" : [
+      "ICICI Prudential Value Discovery Fund Direct Plan Growth has delivered a CAGR return of 18.56% since inception in 2013. Recent returns include 7.56% over 1 year, 18.45% over 3 years, and 33.7% over 5 years. The fund is heavily invested in Financial Services (33.7%), followed by Health and Energy sectors. Top holdings include HDFC Bank Ltd (8.53%), Reliance Industries Ltd, ICICI Bank Ltd, Infosys Ltd, and Axis Bank Ltd. It is categorized as a very high-risk fund with an expense ratio of 1.08%. The fund continues to outperform its benchmark, the S&P BSE 500 India TR INR, and remains a strong choice for long-term capital appreciation through value-oriented equity investments."
+    ]
+  },
+  {
+    "name": "BHARAT Bond FOF - April 2031 Direct Plan Growth",
+    "ticker": "INF754K01LO0",
+    "clean_data":[
+      "This fund invests in BHARAT Bond ETF - April 2031, offering moderate risk with an expense ratio of 0.08%. It provides returns of 9.38% over 1 year and 21.58% over 3 years, making it suitable for investors seeking predictable returns with low volatility."
+    ]
+  },
+  {
+    "name": "HDFC Floating Rate Debt Fund Direct Plan Growth",
+    "ticker": "INF179K01VQ4",
+    "clean_data":[
+      "This fund invests in floating rate debt securities, offering low to moderate risk. It is designed to provide liquidity and stable returns, generally stable but may vary based on market conditions. In March 2025, debt funds experienced significant outflows, possibly due to end-of-year financial needs and global uncertainty."
+    ]
+  },
+  {
+    "name": "Nippon India Arbitrage Fund Direct Plan Growth",
+    "ticker": "INF204K01XZ7",
+    "clean_data":[
+      "An arbitrage fund that exploits price differences between cash and derivatives markets, offering low risk with returns typically similar to liquid funds. It is suitable for short-term investments seeking stable returns. Despite market volatility, arbitrage funds remain popular for their low-risk profile."
+    ]
+  },
+  {
+    "name": "Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund Direct Plan Growth",
+    "ticker": "INF174KA1IL2",
+    "clean_data":[
+      "A debt index fund investing in State Development Loans (SDLs) with a fixed maturity, providing moderate risk with predictable returns. It is suitable for investors seeking stable income with low volatility. As the mutual fund industry grows, such funds are gaining traction for their stable income offerings"
+    ]
+  },
+  {
+    "name": "Parag Parikh Flexi Cap Fund Direct Plan Growth",
+    "ticker": "INF879O01027",
+    "clean_data":[
+      "An equity fund with a flexible investment strategy across market caps, offering high risk with potential for long-term capital appreciation. It is suitable for investors seeking aggressive growth. In 2025, many equity funds have faced challenges, with 97% offering negative returns, but flexi-cap funds remain attractive for their adaptability."
+    ]
+  },
+  {
+    "name": "ICICI Prudential Liquid Fund Direct Plan Growth",
+    "ticker": "INF109K01Q49",
+    "clean_data":[
+      "A liquid fund providing high liquidity and low risk, suitable for short-term investments or emergency funds. Returns are generally stable but may vary slightly based on market conditions. Despite overall outflows in the mutual fund industry, liquid funds remain popular for their liquidity."
+    ]
+  },
+  {
+    "name": "HDFC Overnight Fund Direct Plan Growth",
+    "ticker": "INF179KB1HT1",
+    "clean_data":[
+      "This overnight fund invests in securities with overnight maturity, offering very low risk with returns similar to savings accounts. It is suitable for ultra-short-term investments. As of April 2025, the fund's NAV is approximately ₹3,793.31, and it has delivered returns of 6.59% over the past year and 6.18% over three years. The fund's AUM is around ₹9,086.54 crore, with a low expense ratio of 0.10%. Its performance is stable, reflecting its low-risk profile, which appeals to investors seeking safer options amidst market volatility."
+    ]
+  },
+  {
+    "name": "BHARAT Bond ETF FOF - April 2032 Direct Plan Growth",
+    "ticker": "INF754K01NY5",
+    "clean_data":[
+      "Similar to the April 2031 version, this fund invests in BHARAT Bond ETF - April 2032, providing moderate risk with predictable returns. It is suitable for investors seeking stable income with low volatility. As investors look for stable returns, such funds are becoming more attractive due to their fixed maturity and lower risk compared to equity funds. The current market conditions favor debt funds as investors seek predictable income streams."
+    ]
+
+  },
+  {
+    "name": "Aditya Birla Sun Life Money Manager Fund Direct Plan Growth",
+    "ticker": "INF209K01UU3",
+    "clean_data":[
+      "Similar to the April 2031 version, this fund invests in BHARAT Bond ETF - April 2032, providing moderate risk with predictable returns. It is suitable for investors seeking stable income with low volatility. As investors look for stable returns, such funds are becoming more attractive due to their fixed maturity and lower risk compared to equity funds. The current market conditions favor debt funds as investors seek predictable income streams."
+    ]
+  },
+  {
+    "name": "ICICI Prudential Bluechip Fund Direct Plan Growth",
+    "ticker": "INF109K016L0",
+    "clean_data":[
+      "An equity fund investing in large-cap stocks, offering high risk with potential for long-term capital appreciation. It is suitable for investors seeking stable growth in large-cap companies. Despite challenges in the equity market, large-cap funds remain a popular choice for stability. The fund's performance has been resilient due to its focus on established companies, which tend to be less volatile than mid or small-cap stocks."
+    ]
+  },
+  {
+    "name": "Aditya Birla Sun Life Savings Fund Direct Plan Growth",
+    "ticker": "INF209K01UR9",
+    "clean_data":[
+      "A low-duration debt fund providing liquidity and low risk, suitable for short-term investments seeking stable returns. These funds are in demand due to their ability to provide stable returns amidst market uncertainty. The current economic conditions have led to increased interest in low-duration debt funds as investors seek to minimize risk while maintaining liquidity."
+    ]
+  },
+  {
+    "name": "DSP ELSS Tax Saver Fund Direct Plan Growth",
+    "ticker": "INF740K01OK1",
+    "clean_data":[
+      "An equity-linked savings scheme (ELSS) offering tax benefits, with high risk and potential for long-term capital appreciation. It is suitable for investors seeking tax savings along with growth. Despite market volatility, ELSS funds remain attractive for their tax benefits and growth potential. The fund's performance can be volatile due to its equity exposure, but it remains a popular choice for tax-efficient investments."
+    ]
+  },
+  {
+    "name": "SBI Long Term Equity Fund Direct Plan Growth",
+    "ticker": "INF200K01UM9",
+    "clean_data":[
+      "A multi-cap equity fund with a long-term investment horizon, offering high risk with potential for significant capital appreciation. It is suitable for investors seeking aggressive growth over the long term. In the current market, multi-cap funds are preferred for their ability to adapt across market caps, which helps in managing risk and maximizing returns. The fund's performance can be affected by market conditions, but its diversified portfolio helps mitigate some of this risk."
+    ]
+  },
+  {
+    "name": "Bandhan CRISIL IBX Gilt April 2028 Index Fund Direct Plan Growth",
+    "ticker": "INF194KB1BV1",
+    "clean_data":[
+      "A debt index fund investing in government securities with a fixed maturity, providing moderate risk with predictable returns. It is suitable for investors seeking stable income with low volatility. As investors seek stable returns, such funds are gaining popularity due to their investment in government securities, which are considered safer than corporate debt. The current market conditions favor debt funds as investors look for predictable income streams."
+    ]
+  }
+]

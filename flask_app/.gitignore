@@ -1,0 +1,5 @@
+hftoken
+__pycache__/
+
+flask_app/chroma.db/
+flask_app/chroma_db/
